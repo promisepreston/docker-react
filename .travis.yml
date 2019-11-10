@@ -1,0 +1,9 @@
+sudo: required
+services:
+  - docker
+
+before_install:
+  - docker build -t promisepreston/docker-react -f Dockerfile.dev .
+
+script:
+  - docker run -e CI=ture promisepreston/docker-react npm run test
