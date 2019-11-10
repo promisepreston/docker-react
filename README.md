@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Status
 
-* Travis CI ![Travis CI](https://travis-ci.org/promisepreston/docker-react.svg?branch=master)
+* Travis CI: ![Travis CI](https://travis-ci.org/promisepreston/docker-react.svg?branch=master)
 
 ## Available Scripts
 
